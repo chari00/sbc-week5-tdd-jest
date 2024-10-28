@@ -26,7 +26,6 @@ This project is a SBC challenge to create a simple calculator and test its funct
 
 _Clone this repository first, then proceed to package installation and configuration._
 
-**Before install Vite:**
 Make sure you have Node.js and npm installed on your machine. You can download and install them from [NodeJS](https://nodejs.org/).
 
 **Install dependencies:** Run the following command to install the project dependencies:
