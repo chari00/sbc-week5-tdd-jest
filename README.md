@@ -70,7 +70,9 @@ If not, add the code above and run `npm install` in the terminal. Read more abou
 
 
 
-https://github.com/user-attachments/assets/66df211d-a658-404a-82f4-2d3be1fc1904
+
+https://github.com/user-attachments/assets/6a5e1d4b-15d1-4b53-8419-638f0b5c2934
+
 
 
 
